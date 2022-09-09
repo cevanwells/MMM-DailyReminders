@@ -1,5 +1,4 @@
 {
-  {
   "name": "MMM-DailyReminders",
   "version": "0.1.0",
   "description": "Module which displays daily reminders on your MagicMirror",
@@ -7,10 +6,10 @@
   "author": "Chris Wells",
   "license": "Apache-2",
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cevanwells/MMM-DailyReminders.git"
+    "type": "git",
+    "url": "git+https://github.com/cevanwells/MMM-DailyReminders.git"
   },
   "dependencies": {
-      "moment": ">=2.20.0"
+    "moment": ">=2.20.0"
   }
 }
